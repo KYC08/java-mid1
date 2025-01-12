@@ -1,3 +1,5 @@
+[java-mid1 학습내용]
+
 1. Object 클래스
 2. 불변 객체
 3. String 클래스
